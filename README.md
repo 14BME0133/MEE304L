@@ -1,2 +1,2 @@
-# MEE304l
+# MEE304L
 Turbomachinery LAB
